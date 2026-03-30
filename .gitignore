@@ -1,3 +1,4 @@
 .vscode/ 
 venv/ 
 mlproject.egg-info/ 
+.artifacts
